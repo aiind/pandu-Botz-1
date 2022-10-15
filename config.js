@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-	['6285282250251'],
-	['79309965233'],
-	['6282337245566', 'Syahrul A.S', true]
+	['6283132921627'],
+	['79918869008'],
+	['6282258255356', 'AXD-Bot', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-//global.prems = ['628233725566','6285782540704'] // Premium user has unlimited limit
+//global.prems = ['6283131688812','6282258255356'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
 	// name: 'https://website'
 	nrtm: 'https://nurutomo.herokuapp.com',
@@ -32,14 +32,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*// Sticker WM
-global.packname = 'Azami x Byoru'
-global.author = 'Bot V5'
+global.packname = '@AXD-Bot'
+global.author = 'WhatsApp bot creator'
 
 //apikey
 global.api = 'bukanitucuy14315195'
 global.imgbb = '4fe0927d28af0d5ca44d6d9c0516bee5'*/
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 70 // The higher, The harder levelup
 
 global.rpg = {
 	emoticon(string) {
